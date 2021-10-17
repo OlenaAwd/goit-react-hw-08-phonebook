@@ -1,0 +1,9 @@
+.PhonebookContainer {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 40px;
+  background-color: #e6faff;
+  border: 5px ridge #66c2ff;
+}

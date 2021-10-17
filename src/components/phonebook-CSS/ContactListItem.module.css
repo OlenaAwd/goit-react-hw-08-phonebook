@@ -1,0 +1,18 @@
+.listItem {
+  margin-bottom: 10px;
+  display: flex;
+}
+.buttonDel {
+  width: 60px;
+  border-radius: 9px;
+  font-size: 14px;
+  margin-left: auto;
+  padding: 2px 10px 3px 10px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.buttonDel:hover {
+  cursor: pointer;
+  background-color: #b3f0ff;
+}
